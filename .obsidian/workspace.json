@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "fc3a15d0c4d48d70",
+    "type": "split",
+    "children": [
+      {
+        "id": "18d9cc9b51e0c930",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "846aa5a592af38cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3328817d081e0bef",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bddd6637f30d42f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ba2d7d2fb979f17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9d16fcdd809c7d30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a33030a8de050c52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0addb029790bf49d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6223a906cee3d062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2918d1934b5c630",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "b2bb0af747177f4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from template"
+            }
+          },
+          {
+            "id": "6830210263278a49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9b9a2b947a919339",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "846aa5a592af38cf",
+  "lastOpenFiles": [
+    "_readme/all_done.png",
+    "Daily Notes/2025/03 - March/2025-Mar-16.md",
+    "README.md",
+    "Pasted image 20250316151400.png",
+    "Daily Notes/2025/03 - March",
+    "Daily Notes/2025",
+    "_readme/trigger_on_new_file.png",
+    "_readme/enable_templater.png",
+    "_readme/install_templater.png",
+    "_readme/search_templater.png",
+    "_readme/browse_plugins.png",
+    "_readme/enable_community_plugins.png",
+    "_readme/configure_daily_notes.png",
+    "_readme/enable_css.png",
+    "_readme",
+    "_readme/download.png",
+    "Daily Notes/template.md",
+    "Daily Notes/2025-03-16.md",
+    "Daily Notes/Tarot/XII The Hanged Man.md",
+    "Daily Notes/Tarot/Queen of Swords.md",
+    "Daily Notes/Tarot/XXI The World.md",
+    "Daily Notes/Tarot/XX Judgement.md",
+    "Daily Notes/Tarot/XVIII The Moon.md",
+    "Daily Notes/Tarot/XVII The Star.md",
+    "Daily Notes/Tarot/XVI The Tower.md",
+    "Daily Notes/Tarot/XV The Devil.md",
+    "Daily Notes/Tarot/XIX The Sun.md",
+    "Daily Notes/Tarot/XIV Temperance.md",
+    "Daily Notes/Tarot/XIII Death.md",
+    "Daily Notes/Tarot/XI Justice.md",
+    "Daily Notes/Tarot/X Wheel of Fortune.md",
+    "Daily Notes/Tarot/VIII Strength.md",
+    "Daily Notes/Tarot/VII The Chariot.md",
+    "Daily Notes/Tarot/VI The Lovers.md",
+    "Daily Notes/Tarot/V The Hierophant.md",
+    "Daily Notes/Tarot/Queen of Wands.md",
+    "Daily Notes/Tarot/Queen of Pentacles.md",
+    "Daily Notes/Tarot/Queen of Cups.md",
+    "Daily Notes/Tarot/Page of Wands.md",
+    "Daily Notes/2024/11 - November",
+    "Daily Notes/2024/12 - December",
+    "Daily Notes/Tarot",
+    "Daily Notes/_attachments",
+    "Daily Notes/2024",
+    "Daily Notes"
+  ]
+}
